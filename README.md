@@ -17,4 +17,4 @@ HTML, CSS (SASS), adaptive layout, JavaScript, React, Gulp
 NodeJS (express), HBS  
 
 **Database:**  
-MongoDb
+MongoDB
